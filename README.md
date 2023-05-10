@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Jirawut Sureerat</h1>
 <h3 align="center">Hello, my name is Jirawut Sureerat, but you can call me Ohm. I graduated from the Faculty of Economics at Kasetsart University. However, I recently discovered that I enjoy programming more than economics, so I decided to enroll in Tech Up to pursue my passion. As for my hobbies, I enjoy playing games, reading books, watching movies, listening to music, and in my free time, I like to study programming knowledge. I'm interested in programming because as a programmer, one must constantly learn and adapt.</h3>
 
