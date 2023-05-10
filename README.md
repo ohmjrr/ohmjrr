@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **ohm22496@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/Ohmjrr/Downloads/Jirawut_Sureerat_Resume.pdf](file:///C:/Users/Ohmjrr/Downloads/Jirawut_Sureerat_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
