@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ohmjrr&label=Profile%20views&color=0e75b6&style=flat" alt="ohmjrr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ohmjrr" alt="ohmjrr" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://roaring-pasca-2df57f.netlify.app/](https://roaring-pasca-2df57f.netlify.app/)
 
 - 📫 How to reach me **ohm22496@gmail.com**
